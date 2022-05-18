@@ -1,10 +1,10 @@
-maefat (2.0.0-1) stable; urgency=low
+maefat (2.1.0-1) stable; urgency=low
 
-  * Fixed seveal bugs
-  * Split the settings page into three more logical pages, and added
-    additional options like plotting with specific date ranges
-  * Added code to calculate required caloric changes needed to hit
-    a goal weight by a goal date (this was a user request).
+  * Fixed a bug which would cause the app to crash if the plotToLast
+  * Fixed a bug which caused the program to hang (CPU bound) if the
+  * Fixed a bug which caused no day numbers to be plotted if only
+  * Added the ability to set the interval overwhich weight loss
+  * Added the ability to edit weights for months when more than 33
 
- -- Ken Young <orrery.moko@gmail.com>  Mon, 05 Dec 2011 22:24:27 -0500
+ -- Ken Young <orrery.moko@gmail.com>  Sun, 05 Feb 2012 22:24:27 -0500
 
