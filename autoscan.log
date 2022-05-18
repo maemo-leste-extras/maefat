@@ -1,0 +1,16 @@
+autoscan: warning: missing AC_CHECK_FUNCS([pow]) wanted by: 
+	src/maeFat.c:73
+autoscan: warning: missing AC_CHECK_HEADERS([stdlib.h]) wanted by: 
+	src/maeFat.c:2
+autoscan: warning: missing AC_CHECK_HEADERS([string.h]) wanted by: 
+	src/maeFat.c:3
+autoscan: warning: missing AC_FUNC_MALLOC wanted by: 
+	src/maeFat.c:46
+	src/maeFat.c:116
+autoscan: warning: missing AC_HEADER_STDC wanted by: 
+	src/maeFat.c:2
+	src/maeFat.c:3
+autoscan: warning: missing AC_PREREQ wanted by: 
+	autoscan
+autoscan: warning: missing AC_PROG_CC wanted by: 
+	src/maeFat.c

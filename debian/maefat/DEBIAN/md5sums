@@ -1,0 +1,10 @@
+38d3411e696504c09e9cb006b22e8850  usr/bin/maefat
+e33ef1dd6ad3fc3fef90f88cb12e7522  usr/share/dbus-1/services/com.nokia.maefat.service
+81afca0c7093a82243c0abafeccea80e  usr/share/doc/maefat/README.Debian
+7568f9abdb0f233f30beafafa8c20fcd  usr/share/doc/maefat/changelog.Debian.gz
+fe63d49a9b972355ce9099b589be3701  usr/share/doc/maefat/README
+89d098d6cc7d9b2529ac7869f7b74534  usr/share/doc/maefat/changelog.gz
+95e8a12dbe87b340eabc0b54e0d52cec  usr/share/doc/maefat/copyright
+9cbbb37bed23ffaa3e8f70a2c4ba13ef  usr/share/icons/hicolor/40x40/hildon/maeFat.png
+9f2f88e700efc640bdcca6466ec27158  usr/share/applications/maeFat.desktop
+9f2f88e700efc640bdcca6466ec27158  usr/share/applications/hildon/maeFat.desktop

@@ -1,0 +1,10 @@
+maefat (2.0.0-1) stable; urgency=low
+
+  * Fixed seveal bugs
+  * Split the settings page into three more logical pages, and added
+    additional options like plotting with specific date ranges
+  * Added code to calculate required caloric changes needed to hit
+    a goal weight by a goal date (this was a user request).
+
+ -- Ken Young <orrery.moko@gmail.com>  Mon, 05 Dec 2011 22:24:27 -0500
+

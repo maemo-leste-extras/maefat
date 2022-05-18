@@ -1,0 +1,17 @@
+Source: maefat
+Section: user/utilities
+Priority: extra
+Maintainer: Ken Young <orrery.moko@gmail.com>
+Build-Depends: debhelper (>= 5), autotools-dev, libhildon1-dev, libgtk2.0-dev, libosso-dev, libhildonfm2-dev
+Standards-Version: 3.7.2
+
+Package: maefat
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+XB-Maemo-Display-Name: maeFat
+XSBC-Bugtracker: https://bugs.maemo.org/enter_bug.cgi?product=maeFat
+Description: Tracks your weight history
+ This is a utility allows you to track
+ your weight history.   It is similar to the
+ Hacker Diet tools.
+
