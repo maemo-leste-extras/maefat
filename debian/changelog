@@ -1,3 +1,9 @@
+maefat (2.1.0-1+leste1) unstable; urgency=low
+
+  * First Leste build.
+
+ -- Norayr Chilingarian <norayr@arnet.am>  Sun, 29 May 2022 23:51:33 +0400
+
 maefat (2.1.0-1) stable; urgency=low
 
   * Fixed a bug which would cause the app to crash if the plotToLast
