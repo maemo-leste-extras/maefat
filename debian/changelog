@@ -1,3 +1,9 @@
+maefat (2.1.0-1+leste2) unstable; urgency=low
+
+  * Second Leste build, with HAM base64 icon.
+
+ -- Norayr Chilingarian <norayr@arnet.am>  Mon, 30 May 2022 16:68:31 +0400
+
 maefat (2.1.0-1+leste1) unstable; urgency=low
 
   * First Leste build.
